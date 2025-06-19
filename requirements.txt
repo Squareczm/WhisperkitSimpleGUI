@@ -1,0 +1,6 @@
+# 本项目主要依赖于系统级的环境（如Xcode Command Line Tools）
+# 和WhisperKit项目本身，而非Python的pip包。
+
+# tkinter是Python的标准库，无需额外安装。
+# 因此，这个文件主要是为了项目结构的完整性。
+# 详细的环境配置请参照 README.md 文件。 
